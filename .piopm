@@ -1,0 +1,1 @@
+{"type": "tool", "name": "tool-openocd", "version": "4.1200.0", "spec": {"owner": "platformio", "id": null, "name": "tool-openocd", "requirements": null, "uri": "https://github.com/maxgerhardt/pio-openocd-stm32/archive/refs/heads/main.zip"}}
