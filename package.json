@@ -1,5 +1,5 @@
 {
-  "name": "tool-openocd",
+  "name": "tool-openocd-stm32",
   "version": "4.1200.0",
   "description": "Open On-Chip Debugger. Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing",
   "keywords": [
